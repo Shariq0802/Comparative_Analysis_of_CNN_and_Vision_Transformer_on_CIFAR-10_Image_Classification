@@ -40,5 +40,5 @@ scratch. ViTs are expected to close the gap with larger datasets or pretrained w
 
 ## Contents
 
-- `CS985_Assignment_2_Task_2.ipynb` - full notebook: data prep, all 6 model iterations, training,
+- `Task_2.ipynb` - full notebook: data prep, all 6 model iterations, training,
   evaluation, and comparative analysis.
