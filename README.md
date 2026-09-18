@@ -1,6 +1,6 @@
 # Comparative Analysis of CNN and Vision Transformer on CIFAR-10
 
-CS985 university assignment. Compares CNN and Vision Transformer (ViT) architectures for
+Compares CNN and Vision Transformer (ViT) architectures for
 image classification, using 3 iterative versions of each model.
 
 ## Dataset
@@ -42,3 +42,6 @@ scratch. ViTs are expected to close the gap with larger datasets or pretrained w
 
 - `Task_2.ipynb` - full notebook: data prep, all 6 model iterations, training,
   evaluation, and comparative analysis.
+
+## Note
+- There is already code to take in CIFAR 10 data set directly. Anyways, the link is at the top in read me.
